@@ -69,7 +69,7 @@ debounceAction(400L) {
 
 ## Contributors
 
-Current maintainer and main contributor is [Rudolf Hladík](https://github.com/RudolfHladikr).
+Current maintainer and main contributor is [Rudolf Hladík](https://github.com/RudolfHladik).
 
 ## License
 
